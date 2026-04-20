@@ -3,9 +3,6 @@
 
 <head>
     <meta charset=utf-8>
-    <meta name="robots" content="index,follow">
-    <meta name="robots" content="all">
-    <meta name="robots" content="noodp,noydir" />
     <meta name=viewport content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv=Content-Type content="text/html; charset=utf-8" />
 
@@ -44,6 +41,19 @@
 
     <link rel="stylesheet" type="text/css" href="<?= base_url('assets/css/app.css'); ?>">
 
+    <meta name="msvalidate.01" content="89DA052795DA63223B2CBAC0CFF3CA55" />
+    <meta name="google-site-verification" content="zYHQPjg9maNvR5NGoI3IaeX6B7XCgctJb9-4Kz98wSI" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4S1VPVB6CQ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+        gtag('config', 'G-4S1VPVB6CQ');
+    </script>
 </head>
 
 <body>
