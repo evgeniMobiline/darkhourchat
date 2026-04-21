@@ -24,7 +24,7 @@ return [
                 'entry' => "THIS SERVICE IS FOR ADULTS ONLY. <br/>You must be at least 18 years old to use Darkhourchat.",
             ],
             [
-                'entry' => "Darkhourchat operates a telephone-based social platform serving Houston and nearby areas, allowing consenting adults to connect safely and discreetly. To learn more about who the platform is designed for, visit <a href='https://www.darkhourchat.com/dark-hour-chat-for-men'>Darkhourchat for Men</a> and <a href='https://www.darkhourchat.com/dark-hour-chat-for-women'>Darkhourchat for Women</a>.",
+                'entry' => "Darkhourchat operates a telephone-based social platform, allowing consenting adults to connect safely and discreetly. To learn more about who the platform is designed for, visit <a href='https://www.darkhourchat.com/dark-hour-chat-for-men'>Darkhourchat for Men</a> and <a href='https://www.darkhourchat.com/dark-hour-chat-for-women'>Darkhourchat for Women</a>.",
             ],
         ],
         [
