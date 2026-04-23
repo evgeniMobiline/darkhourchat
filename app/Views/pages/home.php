@@ -11,7 +11,7 @@
         <div class="container">
             <div class="max-w-4xl mx-auto text-center">
                 <h1 class="">The Most Discreet Adult Chat Line in the US</h1>
-                <p class="text-xl mb-2">Darkhourchat is the adult chat line for callers who put privacy first.</p>
+                <p class="text-xl mb-2">DarkHourChat is the adult chat line for callers who put privacy first.</p>
                 <p class="text-xl">Real voices. Real connections. Zero exposure. </p>
                 <div class="flex flex-col items-center gap-8 mt-8 lg:mt-12">
                     <a href="tel:1-888-803-2424" class="btn lg:text-2xl">
@@ -50,8 +50,8 @@
     <div class="container">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 xl:gap-20 items-center">
             <div>
-                <h2 class="mb-6">Darkhourchat - Direct. Private. Voice-Only.</h2>
-                <p>Darkhourchat is a discreet adult phone chat line. Call in, record a greeting, browse real voices, and connect one-on-one. No app. No profile. No digital footprint.</p>
+                <h2 class="mb-6">DarkHourChat - Direct. Private. Voice-Only.</h2>
+                <p>DarkHourChat is a discreet adult phone chat line. Call in, record a greeting, browse real voices, and connect one-on-one. No app. No profile. No digital footprint.</p>
                 <p>Every call is private. Every caller is real. That is the entire premise.</p>
                 <a href="/free-trial" class="btn mt-6">
                     <span>Start Free Trial</span>
@@ -106,7 +106,7 @@
                     </svg>
                 </div>
                 <h3 class="mb-2">Go Live</h3>
-                <p class="text-foreground/70 m-0">Connect one-on-one for a private, unmonitored conversation. Talk freely on your terms.</p>
+                <p class="text-foreground/70 m-0">Connect one-on-one for a private conversation. Talk freely on your terms.</p>
             </div>
         </div>
         <div class="text-center mt-10">
@@ -122,7 +122,7 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 xl:gap-20 items-center">
             <div class="lg:order-2">
                 <h2 class="mb-6">Always Free for Women.</h2>
-                <p>Women call Darkhourchat completely free: no trial, no expiration, no payment information required. Call in, record your greeting, and start connecting, zero cost. Full access. Total control over who you talk to.</p>
+                <p>Women call DarkHourChat completely free: no trial, no expiration, no payment information required. Call in, record your greeting, and start connecting, zero cost. Full access. Total control over who you talk to.</p>
                 <a href="/adult-chat-lines-for-women" class="btn mt-6">
                     <span>Adult Chat Lines for Women</span>
                 </a>
@@ -141,7 +141,7 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 xl:gap-20 items-center">
             <div class="">
                 <h2 class="mb-6">Free Trial for New Male Callers.</h2>
-                <p>New male callers get a free trial on Darkhourchat. Dial in, record your greeting, and start browsing real voices immediately.</p>
+                <p>New male callers get a free trial on DarkHourChat. Dial in, record your greeting, and start browsing real voices immediately.</p>
                 <a href="/adult-chat-lines-for-men" class="btn mt-6">
                     <span>Adult Chat Lines for Men</span>
                 </a>
@@ -158,14 +158,14 @@
 <section class="py-10 lg:py-20 xl:py-30">
     <div class="container">
         <div class="text-center mb-12 max-w-4xl mx-auto">
-            <h2 class="title">Why Darkhourchat vs. Other Options.</h2>
+            <h2 class="title">Why DarkHourChat vs. Other Options.</h2>
         </div>
         <div class="max-w-4xl mx-auto overflow-hidden overflow-x-auto">
             <table class="table w-full">
                 <thead>
                     <tr>
                         <th>Feature</th>
-                        <th>Darkhourchat</th>
+                        <th>DarkHourChat</th>
                         <th>Generic Apps</th>
                         <th>Other Chat Lines</th>
                     </tr>
@@ -251,7 +251,7 @@
         <div class="text-center max-w-5xl mx-auto">
             <h2 class="title">Your Privacy Is Important.</h2>
             <p>Your phone number is never visible to other callers. There are no profiles, no photos, and no data trail. Billing is discreet. You can block any caller instantly. Every connection is anonymous by default.</p>
-            <p>Darkhourchat is built for adults who require discretion. The platform does not log calls, does not store conversations, and does not require any personal information beyond your phone number to connect.</p>
+            <p>DarkHourChat is built for adults who require discretion. Your conversations are private by default.</p>
             <a href="/safety-and-trust" class="btn mt-6">
                 <span>Safety and Trust</span>
             </a>
@@ -266,16 +266,16 @@
             'a' => 'Simply dial (888) 803-2424 from your phone. New callers are automatically eligible. No credit card required. Record your greeting, and your free trial begins immediately.'
         ],
         [
-            'q' => 'Is Darkhourchat really private?',
+            'q' => 'Is DarkHourChat really private?',
             'a' => 'Yes. Your phone number is never visible to other callers. There are no profiles, no photos, and no digital trail. Billing is discreet. Calls are unmonitored and unrecorded.'
         ],
         [
-            'q' => 'Are the people on Darkhourchat real?',
+            'q' => 'Are the people on DarkHourChat real?',
             'a' => 'Every person on the line is a real caller. There are no paid operators, bots, or prerecorded greetings presented as live. You are connecting with real adults who called in at the same time as you.'
         ],
         [
             'q' => 'Is there a local number I can call?',
-            'a' => 'Yes. Darkhourchat provides local access numbers so you can connect without long-distance charges. Call (888) 803-2424 or use the area code finder to locate your nearest number.'
+            'a' => 'Yes. DarkHourChat provides local access numbers so you can connect without long-distance charges. Call (888) 803-2424 or use the area code finder to locate your nearest number.'
         ],
     ]
 ?>

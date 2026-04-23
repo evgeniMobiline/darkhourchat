@@ -23,9 +23,9 @@
     <meta property="og:image:type" content="image/png">
     <meta property="og:type" content="website" />
     <meta property="og:logo" content="<?= base_url('assets/images/favicon/apple-touch-icon.png'); ?>">
-    <meta property="og:url" content="<?= (isset($_SERVER['HTTPS']) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>">
+    <meta property="og:url" content="<?= base_url($_SERVER['REQUEST_URI']); ?>">
 
-    <?php $canonicalUrl = (isset($_SERVER['HTTPS']) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI']; ?>
+    <?php $canonicalUrl = base_url($_SERVER['REQUEST_URI']); ?>
     <link rel="canonical" href="<?= $canonicalUrl; ?>">
 
     <link rel="icon" type="image/png" href="<?= base_url('assets/images/favicon/favicon-96x96.png'); ?>" sizes="96x96" />

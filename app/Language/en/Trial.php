@@ -4,7 +4,7 @@ return [
     'entry'  => [
         's_1' => [
             [
-                'entry' => 'Try Darkhourchat Free. No Commitment Upfront.',
+                'entry' => 'Try DarkHourChat Free. No Commitment Upfront.',
                 'tag'   => 'h1',
             ],
             [
@@ -30,7 +30,7 @@ return [
                         'tag'   => 'h2'
                     ],
                     [
-                        'entry' => 'There are plenty of <a href="https://www.darkhourchat.com">adult chat lines</a> out there. We are confident enough to let you verify the difference yourself. Darkhourchat is built on real chemistry as opposed to bots.',
+                        'entry' => 'There are plenty of <a href="https://www.DarkHourChat.com">adult chat lines</a> out there. We are confident enough to let you verify the difference yourself. DarkHourChat is built on real chemistry as opposed to bots.',
                     ],
                 ],
                 'tag'   => 'div',
@@ -46,7 +46,7 @@ return [
                                 'class' => 'mb-2'
                             ],
                             [
-                                'entry' => "Do not rely on fake photos or misleading profiles. On Darkhourchat, you hear the person's voice before you connect. ",
+                                'entry' => "Do not rely on fake photos or misleading profiles. On DarkHourChat, you hear the person's voice before you connect. ",
                                 'class' => 'mb-0'
                             ],
                         ],
@@ -76,7 +76,7 @@ return [
                                 'class' => 'mb-2'
                             ],
                             [
-                                'entry' => 'Dial your Darkhourchat number free, record your discreet greeting, and start browsing instantly. No waiting. No approval process.',
+                                'entry' => 'Dial your DarkHourChat number free, record your discreet greeting, and start browsing instantly. No waiting. No approval process.',
                                 'class' => 'mb-0'
                             ],
                         ],
@@ -175,11 +175,11 @@ return [
                     [
                         'entry' => [
                             [
-                                'entry' => 'Ladies: Darkhourchat Is Always Free for You.',
+                                'entry' => 'Ladies: DarkHourChat Is Always Free for You.',
                                 'tag'   => 'h2'
                             ],
                             [
-                                'entry' => 'You do not need a trial. Darkhourchat is always 100% free for women. Call in, set up your anonymous voice profile, and screen callers by hearing their voice first. You have total control over who you talk to and when.',
+                                'entry' => 'You do not need a trial. DarkHourChat is always 100% free for women. Call in, set up your anonymous voice profile, and screen callers by hearing their voice first. You have total control over who you talk to and when.',
                             ],
                             [
                                 'entry' => [
@@ -217,7 +217,7 @@ return [
                         'entry' => [
                             [
                                 'entry' => '/assets/images/DarkHourChat_banner_home_woman.webp',
-                                'alt'   => 'Ladies: Darkhourchat Is Always Free for You.',
+                                'alt'   => 'Ladies: DarkHourChat Is Always Free for You.',
                                 'tag'   => 'img',
                                 'class' => 'size-full object-cover object-center'
                             ]
@@ -240,7 +240,7 @@ return [
                                 'tag'   => 'h2'
                             ],
                             [
-                                'entry' => 'We know you are tired of dead-end apps that ask for a credit card just to look around. Darkhourchat is different. New male callers get a full free trial to experience the quality of the community first.'
+                                'entry' => 'We know you are tired of dead-end apps that ask for a credit card just to look around. DarkHourChat is different. New male callers get a full free trial to experience the quality of the community first.'
                             ],
                             [
                                 'entry' => 'Use your free trial minutes to see who is online right now. Browse greetings, send messages, and connect live. If you do not find a connection, you have not lost a dime.',
@@ -291,20 +291,16 @@ return [
         ],
         'faq'   => [
             [
-                'q' => 'Do I need a credit card for the free trial?',
-                'a' => 'No. You can access the system and use your free minutes without entering any payment information. We want you to experience the quality of our community risk-free.',
-            ],
-            [
                 'q' => 'Why do I have to record a voice greeting?',
-                'a' => 'This is our quality control. To keep Darkhourchat free of bots and inactive accounts, every active caller must have a voice profile. It confirms you are real and helps you get more connections.',
+                'a' => 'This is our quality control. To keep DarkHourChat free of bots and inactive accounts, every active caller must have a voice profile. It confirms you are real and helps you get more connections.',
             ],
             [
                 'q' => 'Is this a completely free chat line?',
-                'a' => 'For women, yes. Darkhourchat is always free for female callers. For men, we offer a free trial so you can experience the service before committing. After the trial, affordable packages are available to keep the conversation going.',
+                'a' => 'For women, yes. DarkHourChat is always free for female callers. For men, we offer a free trial so you can experience the service before committing. After the trial, affordable packages are available to keep the conversation going.',
             ],
             [
                 'q' => 'Can I use the trial from a cell phone?',
-                'a' => 'Yes. Darkhourchat works from any mobile or landline. Just dial (888) 803-2424 and follow the prompts.',
+                'a' => 'Yes. DarkHourChat works from any mobile or landline. Just dial (888) 803-2424 and follow the prompts.',
             ],
         ],
     ]

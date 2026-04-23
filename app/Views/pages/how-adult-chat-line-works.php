@@ -10,7 +10,7 @@ $content = lang('How.entry');
     <div class="section-inner">
         <div class="container">
             <div class="text-center">
-                <h1>Darkhourchat- Your Gateway to Real Adult Connections</h1>
+                <h1>DarkHourChat- Your Gateway to Real Adult Connections</h1>
             </div>
         </div>
     </div>

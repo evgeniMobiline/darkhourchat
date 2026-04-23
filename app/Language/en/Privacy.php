@@ -8,10 +8,10 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => 'Darkhourchat, along with its affiliates and related partners, respects your privacy and is committed to protecting your personal information.'
+                'entry' => 'DarkHourChat, along with its affiliates and related partners, respects your privacy and is committed to protecting your personal information.'
             ],
             [
-                'entry' => 'This Privacy Policy explains how we collect, use, and safeguard your information when you use Darkhourchat. We also encourage you to review <a href="https://www.darkhourchat.com/how-dark-hour-chat-works">how Darkhourchat works</a> to better understand how the service operates.'
+                'entry' => 'This Privacy Policy explains how we collect, use, and safeguard your information when you use DarkHourChat. We also encourage you to review <a href="https://www.DarkHourChat.com/how-dark-hour-chat-works">how DarkHourChat works</a> to better understand how the service operates.'
             ],
         ],
         [
@@ -21,10 +21,10 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "THIS SERVICE IS FOR ADULTS ONLY. <br/>You must be at least 18 years old to use Darkhourchat.",
+                'entry' => "THIS SERVICE IS FOR ADULTS ONLY. <br/>You must be at least 18 years old to use DarkHourChat.",
             ],
             [
-                'entry' => "Darkhourchat operates a telephone-based social platform, allowing consenting adults to connect safely and discreetly. To learn more about who the platform is designed for, visit <a href='https://www.darkhourchat.com/dark-hour-chat-for-men'>Darkhourchat for Men</a> and <a href='https://www.darkhourchat.com/dark-hour-chat-for-women'>Darkhourchat for Women</a>.",
+                'entry' => "DarkHourChat operates a telephone-based social platform, allowing consenting adults to connect safely and discreetly. To learn more about who the platform is designed for, visit <a href='https://www.DarkHourChat.com/dark-hour-chat-for-men'>DarkHourChat for Men</a> and <a href='https://www.DarkHourChat.com/dark-hour-chat-for-women'>DarkHourChat for Women</a>.",
             ],
         ],
         [
@@ -39,7 +39,7 @@ return [
             [
                 'entry' => [
                     [
-                        'entry' => "Calls made to the Darkhourchat chat line",
+                        'entry' => "Calls made to the DarkHourChat chat line",
                         'tag'   => 'li'
                     ],
                     [
@@ -59,7 +59,7 @@ return [
                 'class' => 'list-disc mb-4 pl-5'
             ],
             [
-                'entry' => "It applies only to information collected directly by Darkhourchat."
+                'entry' => "It applies only to information collected directly by DarkHourChat."
             ],
         ],
         [
@@ -273,7 +273,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Darkhourchat protects your privacy by:"
+                'entry' => "DarkHourChat protects your privacy by:"
             ],
             [
                 'entry' => [
@@ -315,7 +315,7 @@ return [
                 'entry' => "Your greetings and voice messages are only accessible to other members on the chat line."
             ],
             [
-                'entry' => "If you're new, we recommend starting with our <a href='https://www.darkhourchat.com/free-trial'>free trial</a> to experience privacy protection firsthand."
+                'entry' => "If you're new, we recommend starting with our <a href='https://www.DarkHourChat.com/free-trial'>free trial</a> to experience privacy protection firsthand."
             ],
         ],
         [
@@ -325,7 +325,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "If Darkhourchat  launches a website later, cookies may be used to:"
+                'entry' => "If DarkHourChat  launches a website later, cookies may be used to:"
             ],
             [
                 'entry' => [
@@ -422,7 +422,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Darkhourchat may update this Privacy Policy anytime. Updated policies will appear on this page. Continued use means acceptance of changes."
+                'entry' => "DarkHourChat may update this Privacy Policy anytime. Updated policies will appear on this page. Continued use means acceptance of changes."
             ],
         ],
         [
@@ -432,7 +432,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "If you have questions, contact Darkhourchat customer support via our <a href='https://www.darkhourchat.com/contact-us'>Contact Us</a> page."
+                'entry' => "If you have questions, contact DarkHourChat customer support via our <a href='https://www.DarkHourChat.com/contact-us'>Contact Us</a> page."
             ],
         ],
     ]

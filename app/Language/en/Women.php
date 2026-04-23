@@ -27,11 +27,11 @@ return [
         ],
         's_2' => [
             [
-                'entry' => 'Darkhourchat Is Always Free for Women',
+                'entry' => 'DarkHourChat Is Always Free for Women',
                 'tag'   => 'h2',
             ],
             [
-                'entry' => 'You will never pay to use Darkhourchat, the go-to choice when it comes to <a href="https://www.darkhourchat.com">adult chat lines for women</a>. There is no trial period and no upgrade required. Chatting with men on Darkhourchat is completely free for women, every time you call.',
+                'entry' => 'You will never pay to use DarkHourChat, the go-to choice when it comes to <a href="https://www.DarkHourChat.com">adult chat lines for women</a>. There is no trial period and no upgrade required. Chatting with men on DarkHourChat is completely free for women, every time you call.',
             ],
             [
                 'entry' => 'Call in, record a greeting, listen to men on the line, and connect with anyone who catches your attention.',
@@ -43,7 +43,7 @@ return [
                     [
                         'entry' => [
                             [
-                                'entry' => 'Why Women Choose Darkhourchat',
+                                'entry' => 'Why Women Choose DarkHourChat',
                                 'tag'   => 'h2'
                             ],
                             [
@@ -88,7 +88,7 @@ return [
                         'entry' => [
                             [
                                 'entry' => '/assets/images/DarkHourChat_Banner_Female2.webp',
-                                'alt'   => 'Why Women Choose Darkhourchat',
+                                'alt'   => 'Why Women Choose DarkHourChat',
                                 'tag'   => 'img',
                                 'class' => 'size-full object-cover object-center'
                             ]
@@ -205,12 +205,12 @@ return [
                     [
                         'entry' => [
                             [
-                                'entry' => 'What kind of men will I find on Darkhourchat?',
+                                'entry' => 'What kind of men will I find on DarkHourChat?',
                                 'tag'   => 'h4',
                                 'class' => 'mb-2 font-bold'
                             ],
                             [
-                                'entry' => 'Real men who are on the line at the same time as you. They are looking for genuine phone conversation: whether that is a friendly chat, flirting, or something deeper. Darkhourchat has no paid operators.',
+                                'entry' => 'Real men who are on the line at the same time as you. They are looking for genuine phone conversation: whether that is a friendly chat, flirting, or something deeper. DarkHourChat has no paid operators.',
                                 'class' => 'mb-0 text-foreground/80'
                             ],
                         ],
@@ -220,12 +220,12 @@ return [
                     [
                         'entry' => [
                             [
-                                'entry' => 'What does Darkhourchat cost for women?',
+                                'entry' => 'What does DarkHourChat cost for women?',
                                 'tag'   => 'h4',
                                 'class' => 'mb-2 font-bold'
                             ],
                             [
-                                'entry' => 'Nothing. Darkhourchat is always free for women. You will never be asked for payment information. No credit card. No membership fees.',
+                                'entry' => 'Nothing. DarkHourChat is always free for women. You will never be asked for payment information. No credit card. No membership fees.',
                                 'class' => 'mb-0 text-foreground/80'
                             ],
                         ],
@@ -316,7 +316,7 @@ return [
                             [
                                 'entry' => [
                                     [
-                                        'entry' => 'Call Darkhourchat at (888) 803-2424.',
+                                        'entry' => 'Call DarkHourChat at (888) 803-2424.',
                                         'tag'   => 'li'
                                     ],
                                     [
@@ -350,10 +350,10 @@ return [
                 'tag'   => 'h2',
             ],
             [
-                'entry' => 'Darkhourchat does not require personal information, profile questionnaires, or intimate details. Other callers have no way of getting your phone number, address, or real name unless you choose to share it.',
+                'entry' => 'DarkHourChat does not require personal information, profile questionnaires, or intimate details. Other callers have no way of getting your phone number, address, or real name unless you choose to share it.',
             ],
             [
-                'entry' => 'Every conversation is unmonitored. There are no recordings stored or shared. No online profiles exist. Your experience on Darkhourchat is as private and secure as you make it.',
+                'entry' => 'Every conversation is unmonitored. There are no recordings stored or shared. No online profiles exist. Your experience on DarkHourChat is as private and secure as you make it.',
             ],
             [
                 'entry' => 'You are in complete control of every interaction. Connect with who you want. Block those you do not. Leave any conversation at any time.',
@@ -371,7 +371,7 @@ return [
                 'tag'   => 'h2',
             ],
             [
-                'entry' => 'Try Darkhourchat tonight. Always free for women.',
+                'entry' => 'Try DarkHourChat tonight. Always free for women.',
                 'tag'   => 'p',
                 'class' => 'font-semibold'
             ],
@@ -388,19 +388,19 @@ return [
         ],
         'faq'   => [
             [
-                'q' => 'Is Darkhourchat really free for women?',
-                'a' => 'Yes. Always. There is no trial period and no expiration. You will never be asked for a credit card or any payment information. Chatting on Darkhourchat is free for women every time you call.',
+                'q' => 'Is DarkHourChat really free for women?',
+                'a' => 'Yes. Always. There is no trial period and no expiration. You will never be asked for a credit card or any payment information. Chatting on DarkHourChat is free for women every time you call.',
             ],
             [
-                'q' => 'Do I need a membership to use Darkhourchat?',
+                'q' => 'Do I need a membership to use DarkHourChat?',
                 'a' => 'No. You can chat without a membership. However, a free membership gives you access to extra features like offline messaging, a Hot List of favorite callers, saved greetings, and stored messages. Setting up a free membership takes less than a minute.',
             ],
             [
                 'q' => 'Will callers see my phone number?',
-                'a' => 'No. Other callers cannot see your phone number, real name, or any personal information. Darkhourchat does not share caller information. Your privacy is entirely in your hands.',
+                'a' => 'No. Other callers cannot see your phone number, real name, or any personal information. DarkHourChat does not share caller information. Your privacy is entirely in your hands.',
             ],
             [
-                'q' => 'Are the men on Darkhourchat real?',
+                'q' => 'Are the men on DarkHourChat real?',
                 'a' => 'Yes. Every person you hear is a real caller. There are no paid operators, bots, or prerecorded messages presented as live. You are connecting with real men who are on the line at the same time as you.',
             ],
             [
@@ -417,7 +417,7 @@ return [
             ],
             [
                 'q' => 'Can I call from my mobile phone?',
-                'a' => 'Yes. Darkhourchat works from any phone: landline or mobile. Just dial the number and start chatting.',
+                'a' => 'Yes. DarkHourChat works from any phone: landline or mobile. Just dial the number and start chatting.',
             ],
         ],
     ]

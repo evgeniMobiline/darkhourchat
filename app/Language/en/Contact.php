@@ -6,12 +6,12 @@ return [
             [
                 'entry' => [
                     [
-                        'entry' => 'Customer Care - Darkhourchat Adult Chat Line',
+                        'entry' => 'Customer Care - DarkHourChat Adult Chat Line',
                         'tag'   => 'h2',
                         'class' => 'mb-2'
                     ],
                     [
-                        'entry' => "Do you need clarification regarding your subscription, <a href='https://www.darkhourchat.com/free-trial'>free trial access</a>, or private minute packages? Our representatives are standing by to assist you."
+                        'entry' => "Do you need clarification regarding your subscription, <a href='https://www.DarkHourChat.com/free-trial'>free trial access</a>, or private minute packages? Our representatives are standing by to assist you."
                     ],
                 ],
                 'tag'   => 'div',
@@ -29,7 +29,7 @@ return [
                                 'class' => 'mb-2'
                             ],
                             [
-                                'entry' => "Darkhourchat is designed exclusively for adults. Our team specializes in:",
+                                'entry' => "DarkHourChat is designed exclusively for adults. Our team specializes in:",
                             ],
                             [
                                 'entry' => [
@@ -58,7 +58,7 @@ return [
                                 'class' => 'list-disc pl-5 mb-4'
                             ],
                             [
-                                'entry' => "If you are a first-time caller, we are happy to guide you through the process. You can also explore <a href='https://www.darkhourchat.com/how-dark-hour-chat-works'>how Darkhourchat works</a> for a quick overview.",
+                                'entry' => "If you are a first-time caller, we are happy to guide you through the process. You can also explore <a href='https://www.DarkHourChat.com/how-dark-hour-chat-works'>how DarkHourChat works</a> for a quick overview.",
                             ],
                         ],
                         'tag'   => 'div',
@@ -159,7 +159,7 @@ return [
             [
                 'entry' => [
                     [
-                        'entry' => 'Assistance with Darkhourchat chat lines',
+                        'entry' => 'Assistance with DarkHourChat chat lines',
                         'tag'   => 'li'
                     ],
                     [
@@ -208,7 +208,7 @@ return [
                 'class' => 'list-disc pl-5 flex flex-col gap-1 mb-4'
             ],
             [
-                'entry' => 'Connecting with Darkhourchat should be thrilling - never stressful.',
+                'entry' => 'Connecting with DarkHourChat should be thrilling - never stressful.',
             ],
         ],
         's_5' => [

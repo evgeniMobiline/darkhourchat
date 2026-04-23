@@ -6,11 +6,11 @@ return [
             [
                 'entry' => [
                     [
-                        'entry' => "Feel the excitement with Darkhourchat live <a href='https://www.darkhourchat.com'>adult chat lines</a>. Connect instantly with real adults through free live chat, private phone conversations, and one-on-one connections. Whether you are looking for friendly talk, flirting, or something meaningful, ",
+                        'entry' => "Feel the excitement with DarkHourChat live <a href='https://www.DarkHourChat.com'>adult chat lines</a>. Connect instantly with real adults through free live chat, private phone conversations, and one-on-one connections. Whether you are looking for friendly talk, flirting, or something meaningful, ",
                         'class' => 'mb-4'
                     ],
                     [
-                        'entry' => "Darkhourchat gives you real voices, real conversations, and a safe place to connect."
+                        'entry' => "DarkHourChat gives you real voices, real conversations, and a safe place to connect."
                     ],
                     [
                         'entry' => "Try Free Now. Call to start your free trial.",
@@ -31,11 +31,11 @@ return [
             [
                 'entry' => [
                     [
-                        'entry' => 'How Darkhourchat Works',
+                        'entry' => 'How DarkHourChat Works',
                         'tag'   => 'h2'
                     ],
                     [
-                        'entry' => 'Welcome to Darkhourchat. This guide explains step by step how our adult chat line works so you can start connecting quickly and safely.'
+                        'entry' => 'Welcome to DarkHourChat. This guide explains step by step how our adult chat line works so you can start connecting quickly and safely.'
                     ]
                 ],
                 'tag'   => 'div',
@@ -56,7 +56,7 @@ return [
                                 'class' => 'mb-2'
                             ],
                             [
-                                'entry' => "Start by calling the Darkhourchat access number.",
+                                'entry' => "Start by calling the DarkHourChat access number.",
                             ],
                             [
                                 'entry' => [
@@ -225,7 +225,7 @@ return [
                     [
                         'entry' => [
                             [
-                                'entry' => 'Why Choose Darkhourchat',
+                                'entry' => 'Why Choose DarkHourChat',
                                 'tag'   => 'h3',
                                 'class' => 'mb-2'
                             ],
@@ -298,7 +298,7 @@ return [
                 'class' => ''
             ],
             [
-                'entry' => 'Call now to <a href="https://www.darkhourchat.com/about-us">talk to real adults instantly</a>. Your next great conversation is one call away with Darkhourchat.',
+                'entry' => 'Call now to <a href="https://www.DarkHourChat.com/about-us">talk to real adults instantly</a>. Your next great conversation is one call away with DarkHourChat.',
                 'tag'   => 'p',
                 'class' => ''
             ],

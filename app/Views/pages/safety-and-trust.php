@@ -9,7 +9,7 @@
     <div class="section-inner">
         <div class="container">
             <div class="text-center">
-                <h1>Prioritizing Your Security - Darkhourchat Adult Chat Line</h1>
+                <h1>Prioritizing Your Security - DarkHourChat Adult Chat Line</h1>
             </div>
         </div>
     </div>

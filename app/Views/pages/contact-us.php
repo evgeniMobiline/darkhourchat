@@ -10,7 +10,7 @@ $content = lang('Contact.entry');
     <div class="section-inner">
         <div class="container">
             <div class="text-center">
-                <h1>Support Center | Darkhourchat Adult Chat Line</h1>
+                <h1>Support Center | DarkHourChat Adult Chat Line</h1>
             </div>
         </div>
     </div>
@@ -52,7 +52,7 @@ $content = lang('Contact.entry');
         </div>
     </div>
     <div class="section-overlay">
-        <img src="<?= base_url('assets/images/DarkHourChat_Banner_Male2.webp'); ?>"  alt="Darkhourchat Adult Chat Line" class="size-full object-cover opacity-50"/>
+        <img src="<?= base_url('assets/images/DarkHourChat_Banner_Male2.webp'); ?>"  alt="DarkHourChat Adult Chat Line" class="size-full object-cover opacity-50"/>
     </div>
 </section>
 

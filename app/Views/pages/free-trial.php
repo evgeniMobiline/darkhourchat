@@ -15,7 +15,7 @@ $content = lang('Trial.entry');
         </div>
     </div>
     <div class="section-overlay">
-        <img src="<?= base_url('assets/images/DarkHourChat_banner_trial_man.webp'); ?>"  alt="Try Darkhourchat Free. No Commitment Upfront" class="size-full object-cover opacity-50"/>
+        <img src="<?= base_url('assets/images/DarkHourChat_banner_trial_man.webp'); ?>"  alt="Try DarkHourChat Free. No Commitment Upfront" class="size-full object-cover opacity-50"/>
     </div>
 </section>
 

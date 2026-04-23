@@ -3,10 +3,10 @@ return [
     'entry' => [
         [
             [
-                'entry' => 'At Darkhourchat, <a href="https://www.darkhourchat.com/privacy-policy">protecting your privacy</a> is not an afterthought. It is built into the foundation of how our adult chat line operates. We understand that for many of our callers, discretion is not just a preference. It is essential.'
+                'entry' => 'At DarkHourChat, <a href="https://www.DarkHourChat.com/privacy-policy">protecting your privacy</a> is not an afterthought. It is built into the foundation of how our adult chat line operates. We understand that for many of our callers, discretion is not just a preference. It is essential.'
             ],
             [
-                'entry' => 'Your private conversations should stay private, your experience on Darkhourchat should feel secure at every step. That means protecting your account, your billing information, your phone number, and your identity.'
+                'entry' => 'Your private conversations should stay private, your experience on DarkHourChat should feel secure at every step. That means protecting your account, your billing information, your phone number, and your identity.'
             ],
             [
                 'entry' => 'This page explains the security measures we have built into the service, and the practical steps you can take to protect your own account and calling experience.'
@@ -24,7 +24,7 @@ return [
             [
                 'entry' => [
                     [
-                        'entry' => "SSL Encryption: All data transmitted between your device and Darkhourchat - including your login credentials and any payment details - is protected by SSL encryption. You will see the padlock icon in your browser address bar when accessing our site.",
+                        'entry' => "SSL Encryption: All data transmitted between your device and DarkHourChat - including your login credentials and any payment details - is protected by SSL encryption. You will see the padlock icon in your browser address bar when accessing our site.",
                         'tag'   => 'li'
                     ],
                     [
@@ -36,7 +36,7 @@ return [
                         'tag'   => 'li'
                     ],
                     [
-                        'entry' => "No Call Recording: Calls on Darkhourchat are connected live, in real time, between two callers. We do not record or store calls. There is no audio archive on our end.",
+                        'entry' => "No Call Recording: Calls on DarkHourChat are connected live, in real time, between two callers. We do not record or store calls. There is no audio archive on our end.",
                         'tag'   => 'li'
                     ],
                     [
@@ -44,7 +44,7 @@ return [
                         'tag'   => 'li'
                     ],
                     [
-                        'entry' => "No Public Profiles: Darkhourchat does not use photo profiles or social logins. Your presence on the line is anonymous by design. Nothing links back to your real identity unless you choose to share it yourself.",
+                        'entry' => "No Public Profiles: DarkHourChat does not use photo profiles or social logins. Your presence on the line is anonymous by design. Nothing links back to your real identity unless you choose to share it yourself.",
                         'tag'   => 'li'
                     ],
                 ],
@@ -59,7 +59,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Your membership number and passcode are the keys to your Darkhourchat account. The steps below help keep your account secure and your minutes protected."
+                'entry' => "Your membership number and passcode are the keys to your DarkHourChat account. The steps below help keep your account secure and your minutes protected."
             ],
             [
                 'entry' => "Do This:"
@@ -108,7 +108,7 @@ return [
                         'tag'   => 'li'
                     ],
                     [
-                        'entry' => "Do not click on links in unsolicited messages claiming to be from Darkhourchat. We do not send links via SMS or email without you initiating contact.",
+                        'entry' => "Do not click on links in unsolicited messages claiming to be from DarkHourChat. We do not send links via SMS or email without you initiating contact.",
                         'tag'   => 'li'
                     ],
                 ],
@@ -118,7 +118,7 @@ return [
         ],
         [
             [
-                'entry' => 'Using Darkhourchat Safely on Your Device',
+                'entry' => 'Using DarkHourChat Safely on Your Device',
                 'tag'   => 'h2',
                 'class' => 'mb-2'
             ],
@@ -180,7 +180,7 @@ return [
                         'tag'   => 'li'
                     ],
                     [
-                        'entry' => "Be cautious of any website or service that claims to be affiliated with Darkhourchat but asks for your credentials. Always access your account through the official Darkhourchat website directly.",
+                        'entry' => "Be cautious of any website or service that claims to be affiliated with DarkHourChat but asks for your credentials. Always access your account through the official DarkHourChat website directly.",
                         'tag'   => 'li'
                     ],
                 ],
@@ -195,7 +195,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "When you call Darkhourchat, your phone number is handled through our secure call routing infrastructure. Here is what this means for your anonymity:"
+                'entry' => "When you call DarkHourChat, your phone number is handled through our secure call routing infrastructure. Here is what this means for your anonymity:"
             ],
             [
                 'entry' => [
@@ -204,7 +204,7 @@ return [
                         'tag'   => 'li'
                     ],
                     [
-                        'entry' => "Your number is used internally only to manage your account, prevent <a href='https://www.darkhourchat.com/free-trial'>free chat line trial</a> abuse, and route calls. It is not shared with other users.",
+                        'entry' => "Your number is used internally only to manage your account, prevent <a href='https://www.DarkHourChat.com/free-trial'>free chat line trial</a> abuse, and route calls. It is not shared with other users.",
                         'tag'   => 'li'
                     ],
                     [
@@ -212,7 +212,7 @@ return [
                         'tag'   => 'li'
                     ],
                     [
-                        'entry' => "If you call from a number registered to your name, the Darkhourchat system does not display that registration to other callers.",
+                        'entry' => "If you call from a number registered to your name, the DarkHourChat system does not display that registration to other callers.",
                         'tag'   => 'li'
                     ],
                 ],
@@ -227,7 +227,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Billing security is a critical component of the Darkhourchat privacy experience. Here is how it works:"
+                'entry' => "Billing security is a critical component of the DarkHourChat privacy experience. Here is how it works:"
             ],
             [
                 'entry' => [
@@ -254,7 +254,7 @@ return [
         ],
         [
             [
-                'entry' => 'Reporting Issues to Darkhourchat',
+                'entry' => 'Reporting Issues to DarkHourChat',
                 'tag'   => 'h2',
                 'class' => 'mb-2'
             ],
@@ -298,7 +298,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Darkhourchat is committed to maintaining a <a href='https://www.darkhourchat.com/about-us'>secure, private platform for adult callers</a>. We invest in secure infrastructure, apply industry-standard practices, and act quickly when issues are reported to us. We take our responsibility to your privacy seriously because we know this service only works if you trust us with it."
+                'entry' => "DarkHourChat is committed to maintaining a <a href='https://www.DarkHourChat.com/about-us'>secure, private platform for adult callers</a>. We invest in secure infrastructure, apply industry-standard practices, and act quickly when issues are reported to us. We take our responsibility to your privacy seriously because we know this service only works if you trust us with it."
             ],
             [
                 'entry' => "At the same time, we want to be honest: no service can guarantee perfect security in every circumstance. What we can guarantee is that we take every reasonable step to protect your data, respond quickly to any reported concern, and treat every caller's privacy as a priority and not an obligation."

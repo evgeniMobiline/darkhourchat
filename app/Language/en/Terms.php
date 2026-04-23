@@ -11,16 +11,16 @@ return [
                 'entry' => 'THIS SERVICE IS FOR ADULTS ONLY. <br/>YOU MUST BE AT LEAST 18 YEARS OLD TO USE THIS SERVICE.'
             ],
             [
-                'entry' => 'The Darkhourchat chat line service (the “Service”) is a telephone-based social platform that allows adults 18+ to connect with other consenting adults.'
+                'entry' => 'The DarkHourChat chat line service (the “Service”) is a telephone-based social platform that allows adults 18+ to connect with other consenting adults.'
             ],
             [
                 'entry' => 'By accessing or using this Service, you agree to be legally bound by these Terms of Use (“Agreement”). If you do not agree, you must not use the Service.'
             ],
             [
-                'entry' => 'This Agreement is between you and Darkhourchat. By registering, calling, purchasing time, or using the Service, you confirm that you understand and agree to follow these Terms. You can also review our <a href="https://www.darkhourchat.com/about-us">about us page</a> to understand our service and mission.'
+                'entry' => 'This Agreement is between you and DarkHourChat. By registering, calling, purchasing time, or using the Service, you confirm that you understand and agree to follow these Terms. You can also review our <a href="https://www.DarkHourChat.com/about-us">about us page</a> to understand our service and mission.'
             ],
             [
-                'entry' => 'Darkhourchat may update these Terms at any time. Continued use means you accept the revised Terms.'
+                'entry' => 'DarkHourChat may update these Terms at any time. Continued use means you accept the revised Terms.'
             ],
         ],
         [
@@ -33,7 +33,7 @@ return [
                 'entry' => "The Service is strictly for adults."
             ],
             [
-                'entry' => "By using Darkhourchat, you confirm that you are at least 18 years old. We may request age verification at any time and may suspend access if eligibility requirements are not met."
+                'entry' => "By using DarkHourChat, you confirm that you are at least 18 years old. We may request age verification at any time and may suspend access if eligibility requirements are not met."
             ],
         ],
         [
@@ -70,7 +70,7 @@ return [
                 'entry' => "You may not share, sell, or transfer your account. Only one account per person is allowed."
             ],
             [
-                'entry' => "If you believe your account is compromised, your use of the Service should follow the standards outlined in our <a href='https://www.darkhourchat.com/security'>security guidelines</a>."
+                'entry' => "If you believe your account is compromised, your use of the Service should follow the standards outlined in our <a href='https://www.DarkHourChat.com/security'>security guidelines</a>."
             ],
         ],
         [
@@ -80,7 +80,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Darkhourchat is for personal, non-commercial use only."
+                'entry' => "DarkHourChat is for personal, non-commercial use only."
             ],
             [
                 'entry' => "You may not:"
@@ -108,7 +108,7 @@ return [
                 'class' => 'list-disc mb-4 pl-5'
             ],
             [
-                'entry' => "Darkhourchat does not guarantee matches, relationships, or specific results."
+                'entry' => "DarkHourChat does not guarantee matches, relationships, or specific results."
             ],
         ],
         [
@@ -160,10 +160,10 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "You or Darkhourchat may end service at any time."
+                'entry' => "You or DarkHourChat may end service at any time."
             ],
             [
-                'entry' => "Darkhourchat may suspend or terminate access without notice if you violate these Terms or behave in a harmful or unlawful way."
+                'entry' => "DarkHourChat may suspend or terminate access without notice if you violate these Terms or behave in a harmful or unlawful way."
             ],
             [
                 'entry' => "Termination may occur without a refund of unused time if the rules are broken."
@@ -198,13 +198,13 @@ return [
                 'entry' => "The Service is provided “as is” and “as available.”"
             ],
             [
-                'entry' => "Darkhourchat does not guarantee uninterrupted service or compatibility with all devices."
+                'entry' => "DarkHourChat does not guarantee uninterrupted service or compatibility with all devices."
             ],
             [
-                'entry' => "You understand that conversations with other users are at your own risk. Darkhourchat is not responsible for user behavior on or off the Service."
+                'entry' => "You understand that conversations with other users are at your own risk. DarkHourChat is not responsible for user behavior on or off the Service."
             ],
             [
-                'entry' => "To the fullest extent permitted by law, Darkhourchat is not liable for damages related to Service use."
+                'entry' => "To the fullest extent permitted by law, DarkHourChat is not liable for damages related to Service use."
             ],
         ],
         [
@@ -214,7 +214,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Your use of Darkhourchat is also governed by our Privacy Policy. By using the Service, you agree to how we collect and use information as described there."
+                'entry' => "Your use of DarkHourChat is also governed by our Privacy Policy. By using the Service, you agree to how we collect and use information as described there."
             ],
         ],
         [
@@ -237,10 +237,10 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "For questions about these Terms of Use, contact Darkhourchat customer support using the phone number listed on the service line."
+                'entry' => "For questions about these Terms of Use, contact DarkHourChat customer support using the phone number listed on the service line."
             ],
             [
-                'entry' => "Darkhourchat - Adult connections. Respectful conversations. Responsible use required."
+                'entry' => "DarkHourChat - Adult connections. Respectful conversations. Responsible use required."
             ],
         ],
     ]

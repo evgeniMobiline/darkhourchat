@@ -3,7 +3,7 @@ return [
     'entry' => [
         [
             [
-                'entry' => 'At Darkhourchat, protecting your identity, comfort, and autonomy is our main objective. As a <a href="https://www.darkhourchat.com">leading adult chat service</a> for adults aged 18 and up, we are dedicated to fostering a protected, judgment-free environment where you can explore intimate voice connections without worry.'
+                'entry' => 'At DarkHourChat, protecting your identity, comfort, and autonomy is our main objective. As a <a href="https://www.DarkHourChat.com">leading adult chat service</a> for adults aged 18 and up, we are dedicated to fostering a protected, judgment-free environment where you can explore intimate voice connections without worry.'
             ],
             [
                 'entry' => 'We know that stepping into the world of adult chat lines can bring up valid privacy concerns. That is why we established our network on a foundation of rigorous security, data protection, and explicit consent from the very beginning.'
@@ -16,7 +16,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "When you dial Darkhourchat, your personal identity is completely shielded."
+                'entry' => "When you dial DarkHourChat, your personal identity is completely shielded."
             ],
             [
                 'entry' => [
@@ -51,7 +51,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "In contrast to dating apps that demand public photos and lasting digital profiles, Darkhourchat operates exclusively through audio. This means:"
+                'entry' => "In contrast to dating apps that demand public photos and lasting digital profiles, DarkHourChat operates exclusively through audio. This means:"
             ],
             [
                 'entry' => [
@@ -113,7 +113,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Darkhourchat is strictly limited to individuals 18 years of age and older. We maintain a stringent adult-only protocol to ensure a mature, responsible, and lawful environment. Any falsification of age or facilitation of minor access results in immediate ejection and a permanent ban."
+                'entry' => "DarkHourChat is strictly limited to individuals 18 years of age and older. We maintain a stringent adult-only protocol to ensure a mature, responsible, and lawful environment. Any falsification of age or facilitation of minor access results in immediate ejection and a permanent ban."
             ],
             [
                 'entry' => "This rule safeguards our users and upholds the reputation of our adult chat network."
@@ -162,7 +162,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "<a href='https://www.darkhourchat.com/privacy-policy'>Your privacy</a> is not for sale. Darkhourchat never trades personal information with third-party advertisers. We do not expose caller identities. Our billing descriptors are generic, and our infrastructure is built to ensure secrecy."
+                'entry' => "<a href='https://www.DarkHourChat.com/privacy-policy'>Your privacy</a> is not for sale. DarkHourChat never trades personal information with third-party advertisers. We do not expose caller identities. Our billing descriptors are generic, and our infrastructure is built to ensure secrecy."
             ],
             [
                 'entry' => "If you worry about data handling, be assured that our line prioritizes user protection above all else."
@@ -175,7 +175,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Trust and safety are not static rules - they are active pledges. Darkhourchat constantly evaluates its protocols, moderation techniques, and privacy measures to ensure users feel secure, valued, and guarded while exploring their interests."
+                'entry' => "Trust and safety are not static rules - they are active pledges. DarkHourChat constantly evaluates its protocols, moderation techniques, and privacy measures to ensure users feel secure, valued, and guarded while exploring their interests."
             ],
             [
                 'entry' => "If you have feedback or concerns, our help desk is ready to support you."
@@ -188,7 +188,7 @@ return [
                 'class' => 'mb-2'
             ],
             [
-                'entry' => "Exploring an adult chat line should be thrilling - not hazardous. With masked calling, strict age verification, powerful moderation features, and transparent guidelines, Darkhourchat is designed to give you total authority over your journey."
+                'entry' => "Exploring an adult chat line should be thrilling - not hazardous. With masked calling, strict age verification, powerful moderation features, and transparent guidelines, DarkHourChat is designed to give you total authority over your journey."
             ],
         ],
     ]

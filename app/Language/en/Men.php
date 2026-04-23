@@ -27,11 +27,11 @@ return [
         ],
         's_2' => [
             [
-                'entry' => 'What Is Darkhourchat for Men?',
+                'entry' => 'What Is DarkHourChat for Men?',
                 'tag'   => 'h2',
             ],
             [
-                'entry' => 'Darkhourchat is an <a href="https://www.darkhourchat.com/dark-hour-chat-for-men">adult phone chat line for men</a> who want real voice conversations with real women. No bots. No paid operators. No profiles. You call, you listen to greetings from women on the line, and you connect live when you find someone you want to talk to.',
+                'entry' => 'DarkHourChat is an <a href="https://www.DarkHourChat.com/dark-hour-chat-for-men">adult phone chat line for men</a> who want real voice conversations with real women. No bots. No paid operators. No profiles. You call, you listen to greetings from women on the line, and you connect live when you find someone you want to talk to.',
             ],
             [
                 'entry' => 'Every call is private and unmonitored. Your phone number is never shared with other callers. There is nothing to download, no account to create, and no information stored online. This is phone chat the way it should be: direct and completely confidential.',
@@ -46,7 +46,7 @@ return [
                 'tag'   => 'h2',
             ],
             [
-                'entry' => 'Darkhourchat offers new male callers a free trial. This is real talk time with real women. No credit card required to start. No hidden charges.',
+                'entry' => 'DarkHourChat offers new male callers a free trial. This is real talk time with real women. No credit card required to start. No hidden charges.',
             ],
             [
                 'entry' => 'Call (888) 803-2424 and follow the prompts. Your free trial minutes begin immediately. Use the same phone number each time you call to keep your free trial active.',
@@ -165,7 +165,7 @@ return [
                     [
                         'entry' => [
                             [
-                                'entry' => 'Why Men Choose Darkhourchat',
+                                'entry' => 'Why Men Choose DarkHourChat',
                                 'tag'   => 'h2'
                             ],
                             [
@@ -179,7 +179,7 @@ return [
                                         'tag'   => 'li'
                                     ],
                                     [
-                                        'entry' => 'Every woman you hear is real. Darkhourchat has no paid operators.',
+                                        'entry' => 'Every woman you hear is real. DarkHourChat has no paid operators.',
                                         'tag'   => 'li'
                                     ],
                                     [
@@ -210,7 +210,7 @@ return [
                         'entry' => [
                             [
                                 'entry' => '/assets/images/DarkHourChat_Banner_Male3.webp',
-                                'alt'   => 'Why Men Choose Darkhourchat',
+                                'alt'   => 'Why Men Choose DarkHourChat',
                                 'tag'   => 'img',
                                 'class' => 'size-full object-cover object-center'
                             ]
@@ -231,7 +231,7 @@ return [
                         'tag'   => 'h2'
                     ],
                     [
-                        'entry' => 'After your free trial, paid membership unlocks the full Darkhourchat experience:',
+                        'entry' => 'After your free trial, paid membership unlocks the full DarkHourChat experience:',
                     ],
                 ],
                 'tag'   => 'div',
@@ -370,10 +370,10 @@ return [
                 'tag'   => 'h2',
             ],
             [
-                'entry' => 'Darkhourchat does not require personal information, profile questionnaires, or intimate details. Other callers have no way of getting your phone number, address, or real name unless you choose to share it.',
+                'entry' => 'DarkHourChat does not require personal information, profile questionnaires, or intimate details. Other callers have no way of getting your phone number, address, or real name unless you choose to share it.',
             ],
             [
-                'entry' => 'Every conversation is unmonitored. There are no recordings stored or shared. Billing is discreet: charges appear under a generic descriptor that does not reference Darkhourchat or any adult service.',
+                'entry' => 'Every conversation is unmonitored. There are no recordings stored or shared. Billing is discreet: charges appear under a generic descriptor that does not reference DarkHourChat or any adult service.',
             ],
             [
                 'entry' => 'This is not a feature we added. It is how the entire platform is built.',
@@ -391,7 +391,7 @@ return [
                 'tag'   => 'h2',
             ],
             [
-                'entry' => 'Try Darkhourchat tonight',
+                'entry' => 'Try DarkHourChat tonight',
                 'tag'   => 'p',
                 'class' => 'font-semibold'
             ],
@@ -408,20 +408,20 @@ return [
         ],
         'faq'   => [
             [
-                'q' => 'What is Darkhourchat?',
-                'a' => 'Darkhourchat is a phone chat line that connects you with real women through live voice conversations. It was built for adults who value privacy and prefer hearing a real voice over swiping through profiles.',
+                'q' => 'What is DarkHourChat?',
+                'a' => 'DarkHourChat is a phone chat line that connects you with real women through live voice conversations. It was built for adults who value privacy and prefer hearing a real voice over swiping through profiles.',
             ],
             [
                 'q' => 'How much does it cost?',
-                'a' => 'Darkhourchat is free to try for new male callers. No credit card or payment information is required to start your free trial. After your trial, affordable chat line packages are available.',
+                'a' => 'DarkHourChat is free to try for new male callers. No credit card or payment information is required to start your free trial. After your trial, affordable chat line packages are available.',
             ],
             [
                 'q' => 'Is it really private?',
                 'a' => 'Yes. Other callers cannot see your phone number, name, or any personal information. Every conversation is unmonitored. Billing appears under a discreet descriptor. There are no online profiles or stored recordings.',
             ],
             [
-                'q' => 'Are the women on Darkhourchat real?',
-                'a' => 'Every person you hear on Darkhourchat is a real caller. We do not use paid operators, bots, or prerecorded content. You are connecting with real women who are on the line at the same time as you.',
+                'q' => 'Are the women on DarkHourChat real?',
+                'a' => 'Every person you hear on DarkHourChat is a real caller. We do not use paid operators, bots, or prerecorded content. You are connecting with real women who are on the line at the same time as you.',
             ],
             [
                 'q' => 'Can I use my free trial from any phone?',
@@ -441,7 +441,7 @@ return [
             ],
             [
                 'q' => 'Can I call from outside my area?',
-                'a' => 'Yes. Darkhourchat is accessible from anywhere in the United States. You can connect from any location.',
+                'a' => 'Yes. DarkHourChat is accessible from anywhere in the United States. You can connect from any location.',
             ],
             
         ],

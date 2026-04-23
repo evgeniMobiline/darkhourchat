@@ -2,18 +2,18 @@
 return [
     'entry' => [
         [
-            'title'     => 'About Darkhourchat',
+            'title'     => 'About DarkHourChat',
             'questions' => [
                 [
-                    'q' => "What is Darkhourchat?",
-                    'a' => "Darkhourchat is a live phone chat service connecting adults 18+ for private conversations. You can talk, leave messages, and meet new people without sharing personal details unless you choose to.",
+                    'q' => "What is DarkHourChat?",
+                    'a' => "DarkHourChat is a live phone chat service connecting adults 18+ for private conversations. You can talk, leave messages, and meet new people without sharing personal details unless you choose to.",
                 ],
                 [
-                    'q' => "Who uses Darkhourchat?",
+                    'q' => "Who uses DarkHourChat?",
                     'a' => "Adults of all backgrounds looking for friendly chats, flirting, or new connections. Everyone you talk to is a real person.",
                 ],
                 [
-                    'q' => "Is Darkhourchat private?",
+                    'q' => "Is DarkHourChat private?",
                     'a' => "Yes. Your identity stays confidential unless you decide to share it.",
                 ],
                 [
@@ -32,7 +32,7 @@ return [
                 [
                     'q' => "How do I start chatting?",
                     'a' => '<ul class="list-decimal pl-5">
-                            <li>Call your Darkhourchat number</li>
+                            <li>Call your DarkHourChat number</li>
                             <li>Record your greeting</li>
                             <li>Listen to other greetings</li>
                             <li>Send messages</li>
@@ -65,7 +65,7 @@ return [
             ]
         ],
         [
-            'title'     => 'Using Darkhourchat',
+            'title'     => 'Using DarkHourChat',
             'questions' => [
                 [
                     'q' => "Can I block someone?",
