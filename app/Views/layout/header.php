@@ -54,6 +54,24 @@
         gtag('js', new Date());
         gtag('config', 'G-4S1VPVB6CQ');
     </script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "DarkHourChat",
+            "url": "https://darkhourchat.com/",
+            "logo": "https://darkhourchat.com/assets/images/logo.png",
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "telephone": "+1-888-803-2424",
+                "contactType": "customer service",
+                "contactOption": "TollFree",
+                "areaServed": "US",
+                "availableLanguage": "en"
+            }
+        }
+    </script>
+
 </head>
 
 <body>
