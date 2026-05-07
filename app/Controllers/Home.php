@@ -44,4 +44,27 @@ class Home extends BaseController
 
         return view('errors/error404', $data);
     }
+
+    function sendContactForm()
+    {
+        if ($this->request->isAJAX()) {
+            $response = json_decode($this->request->getBody());
+            $data = [
+                'name'          => $response->fName,
+                'account_no'    => $response->mNumber,
+                'email'         => $response->email,
+                'phone'         => $response->phone,
+                'subject'       => $response->subject,
+                'comment'       => $response->comments,
+            ];
+
+            $json = [
+                'status'    => true,
+                'message'   => 'Thank you. Your request has been received!'
+            ];
+            sleep(1);
+            return json_encode($json);
+            exit();
+        }
+    }
 }

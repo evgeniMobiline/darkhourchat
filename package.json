@@ -42,6 +42,7 @@
     "react-hook-form": "^7.71.2",
     "tailwind-merge": "^3.5.0",
     "tailwindcss-animate": "^1.0.7",
+    "use-mask-input": "^3.10.0",
     "validator": "^13.15.26",
     "zod": "^4.3.6"
   }

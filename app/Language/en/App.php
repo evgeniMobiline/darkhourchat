@@ -29,7 +29,7 @@ return [
                 'link'  => 'faq'
             ],
             [
-                'label' => 'Contact',
+                'label' => 'Contact Us',
                 'link'  => 'contact-us'
             ],
         ],
@@ -47,7 +47,7 @@ return [
                 'link'  => 'adult-chat-lines-for-women'
             ],
             [
-                'label' => 'How It works',
+                'label' => 'How It Works',
                 'link'  => 'how-adult-chat-line-works'
             ],
             [
@@ -63,7 +63,7 @@ return [
                 'link'  => 'safety-and-trust'
             ],
             [
-                'label' => 'Contact',
+                'label' => 'Contact Us',
                 'link'  => 'contact-us'
             ],
         ]
@@ -85,7 +85,7 @@ return [
                     'url'  => 'adult-chat-lines-for-men'
                 ],
                 [
-                    'label' => 'How It works',
+                    'label' => 'How It Works',
                     'url'  => 'how-adult-chat-line-works'
                 ],
             ]
