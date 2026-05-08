@@ -153,7 +153,7 @@ export default function ContactForm() {
                             render={({ field, fieldState }) => (
                                 <Field data-invalid={fieldState.invalid}>
                                     <FieldLabel htmlFor="cf-email" className='gap-0.5'>
-                                        Email address<span className="text-red-400">*</span>
+                                        Email Address<span className="text-red-400">*</span>
                                     </FieldLabel>
                                     <Input
                                         {...field}
