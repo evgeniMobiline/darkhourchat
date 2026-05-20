@@ -1,6 +1,7 @@
 const ready = fn => document.readyState !== 'loading' ? fn() : document.addEventListener('DOMContentLoaded', fn);
 
 const mMenu = () => {
+    console.log('test');
     $("#mobile-menu-btn").click(function(e) {
         $(".site-mmenu").addClass("active", 1e3);
     });

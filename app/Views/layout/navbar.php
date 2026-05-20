@@ -1,9 +1,9 @@
 <header class="site-header sticky top-0 z-999">
     <div class="absolute left-0 top-0 w-full z-999">
-        <div class="py-2 border-b bg-[#040104] border-b-white/10">
+        <div class="py-6 border-b bg-[#040104] border-b-white/10">
             <div class="container mx-auto">
                 <div class="flex flex-row justify-between items-center gap-8">
-                    <div class="w-75 flex-none">
+                    <div class="w-50 flex-none">
                         <a href="<?= base_url(); ?>" class='text-white'>
                             <?php if (!empty(lang("App.site.logo.url"))): ?>
                                 <img src="<?= base_url(lang("App.site.logo.url")); ?>" alt="<?= lang("App.site.logo.alt") ?>" class="block w-full h-auto" />

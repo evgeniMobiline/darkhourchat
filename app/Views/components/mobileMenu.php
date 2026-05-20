@@ -1,6 +1,6 @@
-<div class="site-menu lg:hidden fixed inset-0 bg-black z-9999 transition-all invisible opacity-0 [&.active]:visible [&.active]:opacity-100">
+<div class="site-mmenu lg:hidden fixed inset-0 bg-black z-9999 transition-all invisible opacity-0 [&.active]:visible [&.active]:opacity-100">
     <div class="flex justify-between items-center px-5 py-4">
-        <a class="text-white no-underline" href="<?= base_url(); ?>">
+        <a class="text-white no-underline w-50" href="<?= base_url(); ?>">
             <?php if (!empty(lang("App.site.logo.url"))): ?>
                 <img src="<?= base_url(lang("App.site.logo.url")); ?>" alt="<?= lang("App.site.logo.alt") ?>" class="block w-full h-auto" />
             <?php else: ?>
