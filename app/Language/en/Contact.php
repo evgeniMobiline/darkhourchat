@@ -58,7 +58,7 @@ return [
                                 'class' => 'list-disc pl-5 mb-4'
                             ],
                             [
-                                'entry' => "If you are a first-time caller, we are happy to guide you through the process. You can also explore <a href='https://www.DarkHourChat.com/how-dark-hour-chat-works'>how DarkHourChat works</a> for a quick overview.",
+                                'entry' => "If you are a first-time caller, we are happy to guide you through the process. You can also explore <a href='https://www.darkhourchat.com/how-adult-chat-line-works'>how DarkHourChat works</a> for a quick overview.",
                             ],
                         ],
                         'tag'   => 'div',

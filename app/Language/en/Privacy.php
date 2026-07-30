@@ -11,7 +11,7 @@ return [
                 'entry' => 'DarkHourChat, along with its affiliates and related partners, respects your privacy and is committed to protecting your personal information.'
             ],
             [
-                'entry' => 'This Privacy Policy explains how we collect, use, and safeguard your information when you use DarkHourChat. We also encourage you to review <a href="https://www.DarkHourChat.com/how-dark-hour-chat-works">how DarkHourChat works</a> to better understand how the service operates.'
+                'entry' => 'This Privacy Policy explains how we collect, use, and safeguard your information when you use DarkHourChat. We also encourage you to review <a href="https://www.darkhourchat.com/how-adult-chat-line-works">how DarkHourChat works</a> to better understand how the service operates.'
             ],
         ],
         [
@@ -24,7 +24,7 @@ return [
                 'entry' => "THIS SERVICE IS FOR ADULTS ONLY. <br/>You must be at least 18 years old to use DarkHourChat.",
             ],
             [
-                'entry' => "DarkHourChat operates a telephone-based social platform, allowing consenting adults to connect safely and discreetly. To learn more about who the platform is designed for, visit <a href='https://www.DarkHourChat.com/dark-hour-chat-for-men'>DarkHourChat for Men</a> and <a href='https://www.DarkHourChat.com/dark-hour-chat-for-women'>DarkHourChat for Women</a>.",
+                'entry' => "DarkHourChat operates a telephone-based social platform, allowing consenting adults to connect safely and discreetly. To learn more about who the platform is designed for, visit <a href='https://www.darkhourchat.com/adult-chat-lines-for-men'>DarkHourChat for Men</a> and <a href='https://www.darkhourchat.com/adult-chat-lines-for-women'>DarkHourChat for Women</a>.",
             ],
         ],
         [

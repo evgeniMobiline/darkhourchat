@@ -31,7 +31,7 @@ return [
                 'tag'   => 'h2',
             ],
             [
-                'entry' => 'DarkHourChat is an <a href="https://www.DarkHourChat.com/dark-hour-chat-for-men">adult phone chat line for men</a> who want real voice conversations with real women. No bots. No paid operators. No profiles. You call, you listen to greetings from women on the line, and you connect live when you find someone you want to talk to.',
+                'entry' => 'DarkHourChat is an adult phone chat line for men who want real voice conversations with real women. No bots. No paid operators. No profiles. You call, you listen to greetings from women on the line, and you connect live when you find someone you want to talk to.',
             ],
             [
                 'entry' => 'Every call is private and unmonitored. Your phone number is never shared with other callers. There is nothing to download, no account to create, and no information stored online. This is phone chat the way it should be: direct and completely confidential.',
